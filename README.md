@@ -4,7 +4,7 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, me chamo Bernardo! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,20 +23,34 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, utilizei uma fotografia minha para transformá-la em uma foto de bebê seguindo as minhas características físicas. Posteriomente criei um vídeo do bebê apresentando um podcast.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei a  LOVART IA para realizar as atividades aprtesentadas nesse projeto
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei uma fotografia minha para transformá-la em uma foto de bebê seguindo as minhas características físicas. </br>
+Posteriomente criei um vídeo utilizando a foto do bebê para transformá-lo em um apresentador de Podcast.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresento em forma de tópicos o passo a passo executado nessa atividade:
+
+1- Fiz upload da minha foto para o Lovart IA.</br>
+![IMG_6314](https://github.com/user-attachments/assets/615c1d6e-fc9e-4246-9741-12bcf78f081a)
+
+2- Transformei minha foto em uma foto de bebê seguindo minhas caracterísaticas físicas.</br>
+<img width="1024" height="1024" alt="bebê_transformado" src="https://github.com/user-attachments/assets/9d8d20ad-79af-4d44-8a0c-901e6a27e4fa" />
+
+3- Utilizei a foto do bebe para transformá-lo em um apresentados de Podcast .</br>
+<img width="1024" height="1024" alt="bebê_apresentador_bebecast" src="https://github.com/user-attachments/assets/9eea37d8-7dcf-44a0-aab2-8daea6ee4f9c" />
+
+4- Criei um áudio dando boas vindas aos amigos da DIO.</br>
+
+5- Com a foto de apresentador de Podcast criei um vídeo dando boas vindas aos amigos da DIO, utilizando o áudio criado na etapa anterior.</br>
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+
+Esse desafio foi muito inspirador, pois nesse BOOTCAMP da NEXA juntamente com a DIO, foi aonde tive meu primeiro contato com Inteligência artificial.
 
 ### Exemplos e Insigths
 
@@ -46,6 +60,4 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+www.lovart.ia
